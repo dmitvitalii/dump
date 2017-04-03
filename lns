@@ -1,0 +1,2 @@
+#!/bin/sh
+ln -s /home/theman/Workspace/android_scripts/$1 /home/theman/bin/$1
