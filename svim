@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#
+# Find and open in a text editor first found file by filename.
+
+if [[ -z "${1}" ]]; then
+    echo "usage: ${0##*/} filename.ext"
+else
+    vim $(find . -iname *${1}*)
+fi
