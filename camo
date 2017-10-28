@@ -1,0 +1,64 @@
+#!/usr/bin/env bash
+#
+# Find all commits per developers in a specific directory inside a git repo, greping a parameter.
+
+# Options
+readonly S_OPTS="d:,g:,h"
+readonly L_OPTS="directories:,grep:,help"
+readonly ARGS=$(getopt -s bash --options $S_OPTS --longoptions $L_OPTS --name $PROG -- "$@")
+readonly F_NAME=commiters.txt
+
+usage() {
+    echo "Usage: ${0##*/} dir/ dir2/"
+}
+
+getlog() {
+    local file=${1}
+    git shortlog --all -nes --name-status "${file}"
+}
+
+main() {
+    local to_grep=
+    local dirs=$(ls .)
+
+    eval set -- "$ARGS"
+    while true; do
+        case "${1}" in
+            -h|--help)
+                usage
+                exit 0
+                ;;
+            -d|--directories)
+                ${dirs}=${@}
+                shift
+                ;;
+            -g|--grep)
+                ${to_grep}=${1}
+                shift
+                ;;
+            --)
+                shift
+                break
+                ;;
+            *)
+                shift
+                ;;
+        esac
+    done
+
+    for file in $(ls $dirs); do
+        echo -e "\n===| ${file}:\n" >> $F_NAME
+        if [ -z ${to_grep}]; then
+            getlog "${file}" | grep ${to_grep} >> $F_NAME
+        else
+            getlog "${file}" >> $F_NAME
+        fi
+    done
+}
+
+# Check whether git is available
+if [ $(command -v git) ]; then
+    main
+else
+    echo "You don't have a git in your system."
+fi
