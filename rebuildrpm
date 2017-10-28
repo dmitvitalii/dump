@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#
+# Script for building an rpm package.
+
+if [ -z ${RPM_ROOT} ]; then
+    RPM_ROOT=~/rpmbuild/
+fi
+
+SPEC=$(find . -name *.spec)
+NAME=$(cat ${SPEC} | grep Name: | sed -e s/"Name: "//g )
+
+rpmdev-setuptree
+spectool --all --get-files --directory ${RPM_ROOT}/SOURCES/ ${SPEC}
+rpmbuild -ba ${SPEC}
+mock --rebuild ${RPM_ROOT}/SRPMS/${NAME}*.src.rpm
