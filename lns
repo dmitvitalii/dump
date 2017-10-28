@@ -1,2 +1,19 @@
-#!/bin/sh
-ln -s $HOME/Workspace/android_scripts/$1 $HOME/bin/$1
+#!/usr/bin/env bash
+#
+# Make a symlink to /home/username/bin
+
+chkdir() {
+    if [ ! -d ${HOME}/bin ]; then
+        mkdir ${HOME}/bin
+    fi
+}
+
+if [ "${1}" == "-h" ] || [ "${1}" == "--help" ] || [ ! -e "${1}" ] ; then
+    echo "Usage: ${0##*/} path/to/executable"
+elif [ -d "${1}" ]; then
+    echo "Do not place directories to ${HOME}/bin/!"
+else
+    chkdir
+    chmod +x ${1}
+    ln -s $(readlink -f ${1}) ${HOME}/bin/${1}
+fi
