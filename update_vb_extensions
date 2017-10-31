@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+#
+# Updated script to install/update version of Virtual Box Extensions.
+# Originally created by pcready.cl from https://forums.virtualbox.org/viewtopic.php?f=7&t=44337
+# Fixed, edited to replace an old version and to accept license immediately.
+
+version=$(vboxmanage -v)
+echo $version
+ver=$(echo $version | cut -d 'r' -f 1)
+echo $ver
+rev=$(echo $version | cut -d 'r' -f 2)
+echo $rev
+file="Oracle_VM_VirtualBox_Extension_Pack-$ver-$rev.vbox-extpack"
+echo $file
+
+wget http://download.virtualbox.org/virtualbox/$ver/$file -O /tmp/$file
+sudo VBoxManage extpack install /tmp/$file --replace --accept-license=715c7246dc0f779ceab39446812362b2f9bf64a55ed5d3a905f053cfab36da9e
+rm /tmp/$file
