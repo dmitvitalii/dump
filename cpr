@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+LIST_FILE=list_dirs.lst
+RESULT_FILE=diff.txt
+
+if [ -z ${2} ]; then
+    LEFT_BASE=$(pwd)
+    RIGHT_BASE=${1}
+else
+    LEFT_BASE=${1}
+    RIGHT_BASE=${2}
+fi
+
+rm ${RESULT_FILE}
+
+for dir in $(cat ${LIST_FILE}); do
+    echo "Lines changed in ${dir}: " >> ${RESULT_FILE}
+    diff ${LEFT_BASE}/$dir ${RIGHT_BASE}/$dir -r | grep -E "^>|^<" | wc -l >> ${RESULT_FILE}
+    echo -e "\n_________________________________\n\n" >> ${RESULT_FILE}
+done

@@ -1,0 +1,109 @@
+#!/usr/bin/env python3
+#
+# cpare first/path second/path
+
+import difflib
+import os
+import subprocess
+import filecmp
+import re
+import sys
+import getopt
+import operator, functools
+import operator
+from functools import reduce
+import io
+from contextlib import redirect_stdout
+
+usage = """
+Usage:
+    cpare path/to/dir path/to/another
+OR if you want to compare with a current dir:
+    cpare path/to/another/dir
+"""
+title_template = "========{}========"
+
+
+# os.listdir()
+# os.environ["HOME"]
+
+
+def write_diff(title, difs_list, output_name):
+    file = open(output_name, "w+")
+    file.write(title_template.format(title))
+    for line in difs_list:
+        file.write(line)
+    file.close()
+
+
+def find_diff(dir_left, dir_right=os.curdir):
+    cmp = filecmp.dircmp(dir_left, dir_right)
+    left_dirs = cmp.left_only
+    right_dirs = cmp.right_only
+    same_files = cmp.same_files
+    diff_files = cmp.diff_files
+    uncomp_files = cmp.funny_files
+    dirs_cmp = filecmp.dircmp(dir_left, dir_right)
+
+    # if len(dirs_cmp.left_only) > 0 or len(dirs_cmp.right_only) > 0 or len(dirs_cmp.funny_files) > 0:
+    #     return False
+    # (_, mismatch, errors) = filecmp.cmpfiles(dir_left, dir_right, dirs_cmp.common_files)
+    # if len(mismatch) > 0 or len(errors) > 0:
+    #     return False
+    # for common_dir in dirs_cmp.common_dirs:
+    #     new_dir_left = os.path.join(dir_left, common_dir)
+    #     new_dir_right = os.path.join(dir_right, common_dir)
+    #     if not are_dir_trees_equal(new_dir_left, new_dir_right):
+    #         return False
+    # return True
+
+    # common subdirs dircmp(a_x, b_x, self.ignore, self.hide)
+    # for dir in cmp.subdirs:
+    files_finally = cmp.common_dirs
+
+    # for file in files_finally.right_only:
+    print(
+        # filecmp.cmpfiles(dir_left, dir_right, cmp.common_files),
+        # "common dirs {}, subdirs {}".format(
+        #     len(cmp.common_dirs), len(cmp.subdirs)
+        # ),
+        filecmp.cmpfiles(dir_left, dir_right, files_finally.common_dirs)
+    )
+
+    # output = subprocess.check_output(['diff', '-r', argv[1], argv[2]], timeout=None, start_new_session=True)
+
+
+def main(argv=None):
+    if argv is None:
+        argv = sys.argv
+        # if len(argv) == 2:
+        # find_diff(argv[1])
+    # "diff {} {}".format(argv[1], argv[2]))
+    if len(argv) == 3:
+        result_file = open("~/result", 'w')
+        stream = io.StringIO
+        output_diff = subprocess.Popen(["diff", '-r', argv[1], argv[2]], stdin=subprocess.PIPE, stdout=stream)
+
+        for line in stream:
+
+
+        output_diff.wait()  # <-- Missing line
+
+        result_file.flush()  # force the file to disk
+        # os.fsync(the_file)  # ..
+        with redirect_stdout(output_diff):
+
+
+        result_file.close()
+
+
+
+except subprocess.CalledProcessError:
+print("err")
+#     find_diff(argv[1], argv[2])
+# else:
+#     print(usage)
+
+
+if __name__ == "__main__":
+    sys.exit(main())

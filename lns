@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 #
 # Make a symlink to /home/username/bin
+# TODO: make it able to repair broken links.
 
 chkdir() {
     if [ ! -d ${HOME}/bin ]; then
@@ -15,5 +16,5 @@ elif [ -d "${1}" ]; then
 else
     chkdir
     chmod +x ${1}
-    ln -s $(readlink -f ${1}) ${HOME}/bin/${1}
+    ln -snf $(readlink -f ${1}) ${HOME}/bin/${1}
 fi

@@ -1,0 +1,1240 @@
+diff: AOSP/cts/.git/packed-refs: No such file or directory
+diff: TITAN/cts/.git/shallow: No such file or directory
+diff: AOSP/cts/.git/shallow: No such file or directory
+diff: AOSP/frameworks/av/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/av/.git/shallow: No such file or directory
+diff: AOSP/frameworks/av/.git/shallow: No such file or directory
+diff: AOSP/frameworks/base/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/base/.git/shallow: No such file or directory
+diff: AOSP/frameworks/base/.git/shallow: No such file or directory
+diff: AOSP/frameworks/compile/mclinker/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/compile/mclinker/.git/shallow: No such file or directory
+diff: AOSP/frameworks/compile/mclinker/.git/shallow: No such file or directory
+diff: AOSP/frameworks/compile/libbcc/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/compile/libbcc/.git/shallow: No such file or directory
+diff: AOSP/frameworks/compile/libbcc/.git/shallow: No such file or directory
+diff: AOSP/frameworks/compile/slang/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/compile/slang/.git/shallow: No such file or directory
+diff: AOSP/frameworks/compile/slang/.git/shallow: No such file or directory
+diff: AOSP/frameworks/ex/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/ex/.git/shallow: No such file or directory
+diff: AOSP/frameworks/ex/.git/shallow: No such file or directory
+diff: TITAN/frameworks/mff/: No such file or directory
+diff: AOSP/frameworks/mff/: No such file or directory
+diff: AOSP/frameworks/minikin/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/minikin/.git/shallow: No such file or directory
+diff: AOSP/frameworks/minikin/.git/shallow: No such file or directory
+diff: AOSP/frameworks/data-binding/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/data-binding/.git/shallow: No such file or directory
+diff: AOSP/frameworks/data-binding/.git/shallow: No such file or directory
+diff: TITAN/frameworks/ml/.git/shallow: No such file or directory
+diff: AOSP/frameworks/ml/.git/shallow: No such file or directory
+diff: TITAN/frameworks/multidex/.git/shallow: No such file or directory
+diff: AOSP/frameworks/multidex/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/bitmap/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/bitmap/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/bluetooth/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/bluetooth/.git/shallow: No such file or directory
+diff: AOSP/frameworks/native/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/native/.git/shallow: No such file or directory
+diff: AOSP/frameworks/native/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/calendar/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/calendar/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/carddav/: No such file or directory
+diff: AOSP/frameworks/opt/carddav/: No such file or directory
+diff: AOSP/frameworks/opt/chips/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/opt/chips/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/chips/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/colorpicker/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/colorpicker/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/datetimepicker/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/datetimepicker/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/datetimepicker/libs/android-support-v4.jar: No such file or directory
+diff: AOSP/frameworks/opt/datetimepicker/libs/android-support-v4.jar: No such file or directory
+diff: TITAN/frameworks/opt/emoji/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/emoji/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/inputconnectioncommon/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/inputconnectioncommon/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/inputmethodcommon/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/inputmethodcommon/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/net/ethernet/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/net/ethernet/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/net/ims/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/opt/net/ims/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/net/ims/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/net/voip/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/net/voip/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/net/wifi/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/opt/net/wifi/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/net/wifi/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/photoviewer/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/opt/photoviewer/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/photoviewer/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/setupwizard/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/opt/setupwizard/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/setupwizard/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/telephony/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/opt/telephony/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/telephony/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/timezonepicker/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/timezonepicker/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/timezonepicker/libs/android-support-v4.jar: No such file or directory
+diff: AOSP/frameworks/opt/timezonepicker/libs/android-support-v4.jar: No such file or directory
+diff: TITAN/frameworks/opt/vcard/.git/shallow: No such file or directory
+diff: AOSP/frameworks/opt/vcard/.git/shallow: No such file or directory
+diff: TITAN/frameworks/opt/widget/: No such file or directory
+diff: AOSP/frameworks/opt/widget/: No such file or directory
+diff: AOSP/frameworks/rs/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/rs/.git/shallow: No such file or directory
+diff: AOSP/frameworks/rs/.git/shallow: No such file or directory
+diff: TITAN/frameworks/volley/: No such file or directory
+diff: AOSP/frameworks/volley/: No such file or directory
+diff: AOSP/frameworks/webview/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/webview/.git/shallow: No such file or directory
+diff: AOSP/frameworks/webview/.git/shallow: No such file or directory
+diff: AOSP/frameworks/support/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/support/.git/shallow: No such file or directory
+diff: AOSP/frameworks/support/.git/shallow: No such file or directory
+diff: AOSP/frameworks/wilhelm/.git/packed-refs: No such file or directory
+diff: TITAN/frameworks/wilhelm/.git/shallow: No such file or directory
+diff: AOSP/frameworks/wilhelm/.git/shallow: No such file or directory
+diff: TITAN/frameworks/wilhelm/tools/hashgen/interfaces.c: No such file or directory
+diff: AOSP/frameworks/wilhelm/tools/hashgen/interfaces.c: No such file or directory
+diff: TITAN/frameworks/wilhelm/tools/hashgen/OpenSLES_IID.c: No such file or directory
+diff: AOSP/frameworks/wilhelm/tools/hashgen/OpenSLES_IID.c: No such file or directory
+diff: TITAN/frameworksbase/services/java/com/android/server/: No such file or directory
+diff: AOSP/frameworksbase/services/java/com/android/server/: No such file or directory
+diff: TITAN/frameworks/base/services/core/java/com/android/server/MountService.java: No such file or directory
+diff: AOSP/frameworks/base/services/core/java/com/android/server/MountService.java: No such file or directory
+diff: TITAN/frameworks/base/services/core/java/com/android/server/TextServiceManagerService.java: No such file or directory
+diff: AOSP/frameworks/base/services/core/java/com/android/server/TextServiceManagerService.java: No such file or directory
+diff: TITAN/packages/apps/BasicSmsReceiver/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/BasicSmsReceiver/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Bluetooth/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Bluetooth/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Bluetooth/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/Browser/: No such file or directory
+diff: AOSP/packages/apps/Browser/: No such file or directory
+diff: TITAN/packages/apps/Calculator/: No such file or directory
+diff: AOSP/packages/apps/Calculator/: No such file or directory
+diff: AOSP/packages/apps/Calendar/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Calendar/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Calendar/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/Calendar/libs/android-support-v4.jar: No such file or directory
+diff: AOSP/packages/apps/Calendar/libs/android-support-v4.jar: No such file or directory
+diff: TITAN/packages/apps/Camera/: No such file or directory
+diff: AOSP/packages/apps/Camera/: No such file or directory
+diff: AOSP/packages/apps/Camera2/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Camera2/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Camera2/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/CarrierConfig/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/CarrierConfig/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/CellBroadcastReceiver/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/CellBroadcastReceiver/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/CellBroadcastReceiver/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/CertInstaller/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/CertInstaller/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/CertInstaller/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Contacts/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Contacts/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Contacts/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/ContactsCommon/: No such file or directory
+diff: AOSP/packages/apps/DeskClock/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/DeskClock/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/DeskClock/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Dialer/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Dialer/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Dialer/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Email/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Email/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Email/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/ExactCalculator/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/ExactCalculator/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/ExactCalculator/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/Exchange/: No such file or directory
+diff: AOSP/packages/apps/Exchange/: No such file or directory
+diff: TITAN/packages/apps/FMRadio/: No such file or directory
+diff: AOSP/packages/apps/FMRadio/: No such file or directory
+diff: AOSP/packages/apps/Gallery/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Gallery/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Gallery/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Gallery2/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Gallery2/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Gallery2/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/HTMLViewer/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/HTMLViewer/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/InCallUI/: No such file or directory
+diff: AOSP/packages/apps/InCallUI/: No such file or directory
+diff: TITAN/packages/apps/KeyChain/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/KeyChain/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Launcher2/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Launcher2/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Launcher2/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Launcher3/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Launcher3/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Launcher3/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/LegacyCamera/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/LegacyCamera/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/LegacyCamera/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/ManagedProvisioning/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/ManagedProvisioning/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/ManagedProvisioning/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Messaging/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Messaging/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Messaging/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Music/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Music/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Music/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/MusicFX/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/MusicFX/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Nfc/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Nfc/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Nfc/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/OneTimeInitializer/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/OneTimeInitializer/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/PackageInstaller/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/PackageInstaller/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/PackageInstaller/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Phone/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Phone/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Phone/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/PhoneCommon/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/PhoneCommon/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/PhoneCommon/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/Protips/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Protips/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/Provision/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Provision/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/QuickSearchBox/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/QuickSearchBox/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/QuickSearchBox/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Settings/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Settings/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Settings/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/SmartCardService/: No such file or directory
+diff: AOSP/packages/apps/SmartCardService/: No such file or directory
+diff: TITAN/packages/apps/SoundRecorder/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/SoundRecorder/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/SpareParts/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/SpareParts/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/SpeechRecorder/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/SpeechRecorder/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Stk/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Stk/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Stk/.git/shallow: No such file or directory
+diff: TITAN/packages/apps/Terminal/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Terminal/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Tag/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/Tag/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/Tag/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/TvSettings/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/TvSettings/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/TvSettings/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/UnifiedEmail/.git/packed-refs: No such file or directory
+diff: TITAN/packages/apps/UnifiedEmail/.git/shallow: No such file or directory
+diff: AOSP/packages/apps/UnifiedEmail/.git/shallow: No such file or directory
+diff: TITAN/packages/experimental/: No such file or directory
+diff: AOSP/packages/inputmethods/OpenWnn/.git/packed-refs: No such file or directory
+diff: TITAN/packages/inputmethods/OpenWnn/.git/shallow: No such file or directory
+diff: AOSP/packages/inputmethods/OpenWnn/.git/shallow: No such file or directory
+diff: TITAN/packages/providers/ApplicationsProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/ApplicationsProvider/.git/shallow: No such file or directory
+diff: TITAN/packages/providers/BookmarkProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/BookmarkProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/inputmethods/LatinIME/.git/packed-refs: No such file or directory
+diff: TITAN/packages/inputmethods/LatinIME/.git/shallow: No such file or directory
+diff: AOSP/packages/inputmethods/LatinIME/.git/shallow: No such file or directory
+diff: TITAN/packages/providers/CallLogProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/CallLogProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/CalendarProvider/.git/packed-refs: No such file or directory
+diff: TITAN/packages/providers/CalendarProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/CalendarProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/DownloadProvider/.git/packed-refs: No such file or directory
+diff: TITAN/packages/providers/DownloadProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/DownloadProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/ContactsProvider/.git/packed-refs: No such file or directory
+diff: TITAN/packages/providers/ContactsProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/ContactsProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/MediaProvider/.git/packed-refs: No such file or directory
+diff: TITAN/packages/providers/MediaProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/MediaProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/TelephonyProvider/.git/packed-refs: No such file or directory
+diff: TITAN/packages/providers/TelephonyProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/TelephonyProvider/.git/shallow: No such file or directory
+diff: TITAN/packages/providers/PartnerBookmarksProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/PartnerBookmarksProvider/.git/shallow: No such file or directory
+diff: TITAN/packages/providers/TvProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/TvProvider/.git/shallow: No such file or directory
+diff: TITAN/packages/providers/UserDictionaryProvider/.git/shallow: No such file or directory
+diff: AOSP/packages/providers/UserDictionaryProvider/.git/shallow: No such file or directory
+diff: TITAN/packages/screensavers/Basic/.git/shallow: No such file or directory
+diff: AOSP/packages/screensavers/Basic/.git/shallow: No such file or directory
+diff: AOSP/packages/screensavers/PhotoTable/.git/packed-refs: No such file or directory
+diff: TITAN/packages/screensavers/PhotoTable/.git/shallow: No such file or directory
+diff: AOSP/packages/screensavers/PhotoTable/.git/shallow: No such file or directory
+diff: TITAN/packages/screensavers/WebView/.git/shallow: No such file or directory
+diff: AOSP/packages/screensavers/WebView/.git/shallow: No such file or directory
+diff: TITAN/packages/services/Mms/.git/shallow: No such file or directory
+diff: AOSP/packages/services/Mms/.git/shallow: No such file or directory
+diff: AOSP/packages/services/Telecomm/.git/packed-refs: No such file or directory
+diff: TITAN/packages/services/Telecomm/.git/shallow: No such file or directory
+diff: AOSP/packages/services/Telecomm/.git/shallow: No such file or directory
+diff: TITAN/packages/wallpapers/Basic/: No such file or directory
+diff: AOSP/packages/wallpapers/Basic/: No such file or directory
+diff: TITAN/packages/wallpapers/Galaxy4/: No such file or directory
+diff: AOSP/packages/wallpapers/Galaxy4/: No such file or directory
+diff: AOSP/packages/services/Telephony/.git/packed-refs: No such file or directory
+diff: TITAN/packages/services/Telephony/.git/shallow: No such file or directory
+diff: AOSP/packages/services/Telephony/.git/shallow: No such file or directory
+diff: TITAN/packages/wallpapers/HoloSpiral/: No such file or directory
+diff: AOSP/packages/wallpapers/HoloSpiral/: No such file or directory
+diff: TITAN/packages/wallpapers/LivePicker/.git/shallow: No such file or directory
+diff: AOSP/packages/wallpapers/LivePicker/.git/shallow: No such file or directory
+diff: TITAN/packages/wallpapers/NoiseField/: No such file or directory
+diff: AOSP/packages/wallpapers/NoiseField/: No such file or directory
+diff: TITAN/packages/wallpapers/MagicSmoke/: No such file or directory
+diff: AOSP/packages/wallpapers/MagicSmoke/: No such file or directory
+diff: TITAN/packages/wallpapers/PhaseBeam/: No such file or directory
+diff: AOSP/packages/wallpapers/PhaseBeam/: No such file or directory
+diff: AOSP/system/bt/.git/packed-refs: No such file or directory
+diff: TITAN/system/bt/.git/shallow: No such file or directory
+diff: AOSP/system/bt/.git/shallow: No such file or directory
+diff: AOSP/system/core/.git/packed-refs: No such file or directory
+diff: TITAN/system/core/.git/shallow: No such file or directory
+diff: AOSP/system/core/.git/shallow: No such file or directory
+diff: TITAN/system/gatekeeper/.git/shallow: No such file or directory
+diff: AOSP/system/gatekeeper/.git/shallow: No such file or directory
+diff: AOSP/system/extras/.git/packed-refs: No such file or directory
+diff: TITAN/system/extras/.git/shallow: No such file or directory
+diff: AOSP/system/extras/.git/shallow: No such file or directory
+diff: AOSP/system/keymaster/.git/packed-refs: No such file or directory
+diff: TITAN/system/keymaster/.git/shallow: No such file or directory
+diff: AOSP/system/keymaster/.git/shallow: No such file or directory
+diff: AOSP/system/media/.git/packed-refs: No such file or directory
+diff: TITAN/system/media/.git/shallow: No such file or directory
+diff: AOSP/system/media/.git/shallow: No such file or directory
+diff: AOSP/system/netd/.git/packed-refs: No such file or directory
+diff: TITAN/system/netd/.git/shallow: No such file or directory
+diff: AOSP/system/netd/.git/shallow: No such file or directory
+diff: AOSP/system/security/.git/packed-refs: No such file or directory
+diff: TITAN/system/security/.git/shallow: No such file or directory
+diff: AOSP/system/security/.git/shallow: No such file or directory
+diff: AOSP/system/vold/.git/packed-refs: No such file or directory
+diff: /TITAN/system/vold/.git/shallow: No such file or directory
+diff: AOSP/system/vold/.git/shallow: No such file or directory
+
+
+=====
+
+Lines changed in cts/: 
+33665
+
+_________________________________
+
+
+Lines changed in frameworks/av/: 
+10505
+
+_________________________________
+
+
+Lines changed in frameworks/base/: 
+93658
+
+_________________________________
+
+
+Lines changed in frameworks/compile/mclinker/: 
+23
+
+_________________________________
+
+
+Lines changed in frameworks/compile/libbcc/: 
+103
+
+_________________________________
+
+
+Lines changed in frameworks/compile/slang/: 
+1737
+
+_________________________________
+
+
+Lines changed in frameworks/ex/: 
+18
+
+_________________________________
+
+
+Lines changed in frameworks/mff/: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/minikin/: 
+1013
+
+_________________________________
+
+
+Lines changed in frameworks/data-binding/: 
+22
+
+_________________________________
+
+
+Lines changed in frameworks/ml/: 
+3079
+
+_________________________________
+
+
+Lines changed in frameworks/multidex/: 
+2145
+
+_________________________________
+
+
+Lines changed in frameworks/opt/bitmap/: 
+1709
+
+_________________________________
+
+
+Lines changed in frameworks/opt/bluetooth/: 
+1872
+
+_________________________________
+
+
+Lines changed in frameworks/native/: 
+21746
+
+_________________________________
+
+
+Lines changed in frameworks/opt/calendar/: 
+3128
+
+_________________________________
+
+
+Lines changed in frameworks/opt/carddav/: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/opt/chips/: 
+28
+
+_________________________________
+
+
+Lines changed in frameworks/opt/colorpicker/: 
+2823
+
+_________________________________
+
+
+Lines changed in frameworks/opt/datetimepicker/: 
+2860
+
+_________________________________
+
+
+Lines changed in frameworks/opt/emoji/: 
+3061
+
+_________________________________
+
+
+Lines changed in frameworks/opt/inputconnectioncommon/: 
+784
+
+_________________________________
+
+
+Lines changed in frameworks/opt/inputmethodcommon/: 
+2884
+
+_________________________________
+
+
+Lines changed in frameworks/opt/net/ethernet/: 
+2319
+
+_________________________________
+
+
+Lines changed in frameworks/opt/net/ims/: 
+1640
+
+_________________________________
+
+
+Lines changed in frameworks/opt/net/voip/: 
+2008
+
+_________________________________
+
+
+Lines changed in frameworks/opt/net/wifi/: 
+4719
+
+_________________________________
+
+
+Lines changed in frameworks/opt/photoviewer/: 
+24
+
+_________________________________
+
+
+Lines changed in frameworks/opt/setupwizard/: 
+216
+
+_________________________________
+
+
+Lines changed in frameworks/opt/telephony/: 
+8395
+
+_________________________________
+
+
+Lines changed in frameworks/opt/timezonepicker/: 
+2827
+
+_________________________________
+
+
+Lines changed in frameworks/opt/vcard/: 
+3132
+
+_________________________________
+
+
+Lines changed in frameworks/opt/widget/: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/rs/: 
+2493
+
+_________________________________
+
+
+Lines changed in frameworks/volley/: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/webview/: 
+22
+
+_________________________________
+
+
+Lines changed in frameworks/support/: 
+29120
+
+_________________________________
+
+
+Lines changed in frameworks/wilhelm/: 
+63
+
+_________________________________
+
+
+Lines changed in frameworksbase/services/java/com/android/server/: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/: 
+19822
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/am/: 
+2602
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/audio/: 
+286
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/BluetoothManagerService.java: 
+63
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/BluetoothService.java: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/connectivity/: 
+3738
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/ConnectivityService.java: 
+688
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/content/: 
+87
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/fingerprint/: 
+136
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/InputMethodManagerService.java: 
+5
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/location/: 
+46
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/LocationManagerService.java: 
+21
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/LockSettingsService.java: 
+33
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/LockSettingsStorage.java: 
+19
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/media/: 
+158
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/MountService.java: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/notification/: 
+845
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/policy/: 
+397
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/power/: 
+59
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/statusbar/: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/SystemServerInitThreadPool.java: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/pm/: 
+3388
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/power/: 
+59
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/display/: 
+341
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/SystemServiceManager.java: 
+7
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/TextServiceManagerService.java: 
+0
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/Watchdog.java: 
+16
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/wm/: 
+2408
+
+_________________________________
+
+
+Lines changed in frameworks/base/services/core/java/com/android/server/: 
+19822
+
+_________________________________
+
+
+Lines changed in packages/apps/BasicSmsReceiver/: 
+3126
+
+_________________________________
+
+
+Lines changed in packages/apps/Bluetooth/: 
+43490
+
+_________________________________
+
+
+Lines changed in packages/apps/Browser/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/Calculator/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/Calendar/: 
+16
+
+_________________________________
+
+
+Lines changed in packages/apps/Camera/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/Camera2/: 
+88
+
+_________________________________
+
+
+Lines changed in packages/apps/CarrierConfig/: 
+1521
+
+_________________________________
+
+
+Lines changed in packages/apps/CellBroadcastReceiver/: 
+3246
+
+_________________________________
+
+
+Lines changed in packages/apps/CertInstaller/: 
+48
+
+_________________________________
+
+
+Lines changed in packages/apps/Contacts/: 
+323
+
+_________________________________
+
+
+Lines changed in packages/apps/ContactsCommon/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/DeskClock/: 
+292
+
+_________________________________
+
+
+Lines changed in packages/apps/Dialer/: 
+72706
+
+_________________________________
+
+
+Lines changed in packages/apps/Email/: 
+22
+
+_________________________________
+
+
+Lines changed in packages/apps/ExactCalculator/: 
+42
+
+_________________________________
+
+
+Lines changed in packages/apps/Exchange/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/FMRadio/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/Gallery/: 
+22
+
+_________________________________
+
+
+Lines changed in packages/apps/Gallery2/: 
+39
+
+_________________________________
+
+
+Lines changed in packages/apps/HTMLViewer/: 
+2794
+
+_________________________________
+
+
+Lines changed in packages/apps/InCallUI/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/KeyChain/: 
+1655
+
+_________________________________
+
+
+Lines changed in packages/apps/Launcher2/: 
+18
+
+_________________________________
+
+
+Lines changed in packages/apps/Launcher3/: 
+21267
+
+_________________________________
+
+
+Lines changed in packages/apps/LegacyCamera/: 
+20
+
+_________________________________
+
+
+Lines changed in packages/apps/ManagedProvisioning/: 
+585
+
+_________________________________
+
+
+Lines changed in packages/apps/Messaging/: 
+31
+
+_________________________________
+
+
+Lines changed in packages/apps/Music/: 
+34
+
+_________________________________
+
+
+Lines changed in packages/apps/MusicFX/: 
+1915
+
+_________________________________
+
+
+Lines changed in packages/apps/Nfc/: 
+1659
+
+_________________________________
+
+
+Lines changed in packages/apps/OneTimeInitializer/: 
+2835
+
+_________________________________
+
+
+Lines changed in packages/apps/PackageInstaller/: 
+473
+
+_________________________________
+
+
+Lines changed in packages/apps/Phone/: 
+16
+
+_________________________________
+
+
+Lines changed in packages/apps/PhoneCommon/: 
+32
+
+_________________________________
+
+
+Lines changed in packages/apps/Protips/: 
+3182
+
+_________________________________
+
+
+Lines changed in packages/apps/Provision/: 
+3180
+
+_________________________________
+
+
+Lines changed in packages/apps/QuickSearchBox/: 
+24
+
+_________________________________
+
+
+Lines changed in packages/apps/Settings/: 
+22628
+
+_________________________________
+
+
+Lines changed in packages/apps/SmartCardService/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/apps/SoundRecorder/: 
+2169
+
+_________________________________
+
+
+Lines changed in packages/apps/SpareParts/: 
+3127
+
+_________________________________
+
+
+Lines changed in packages/apps/SpeechRecorder/: 
+2586
+
+_________________________________
+
+
+Lines changed in packages/apps/Stk/: 
+954
+
+_________________________________
+
+
+Lines changed in packages/apps/Terminal/: 
+1419
+
+_________________________________
+
+
+Lines changed in packages/apps/Tag/: 
+132
+
+_________________________________
+
+
+Lines changed in packages/apps/TvSettings/: 
+8028
+
+_________________________________
+
+
+Lines changed in packages/apps/UnifiedEmail/: 
+57
+
+_________________________________
+
+
+Lines changed in packages/experimental/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/inputmethods/OpenWnn/: 
+16
+
+_________________________________
+
+
+Lines changed in packages/providers/ApplicationsProvider/: 
+2975
+
+_________________________________
+
+
+Lines changed in packages/providers/BookmarkProvider/: 
+854
+
+_________________________________
+
+
+Lines changed in packages/inputmethods/LatinIME/: 
+160
+
+_________________________________
+
+
+Lines changed in packages/providers/CallLogProvider/: 
+1008
+
+_________________________________
+
+
+Lines changed in packages/providers/CalendarProvider/: 
+18
+
+_________________________________
+
+
+Lines changed in packages/providers/DownloadProvider/: 
+56
+
+_________________________________
+
+
+Lines changed in packages/providers/ContactsProvider/: 
+68
+
+_________________________________
+
+
+Lines changed in packages/providers/MediaProvider/: 
+44
+
+_________________________________
+
+
+Lines changed in packages/providers/TelephonyProvider/: 
+197
+
+_________________________________
+
+
+Lines changed in packages/providers/PartnerBookmarksProvider/: 
+3087
+
+_________________________________
+
+
+Lines changed in packages/providers/TvProvider/: 
+1964
+
+_________________________________
+
+
+Lines changed in packages/providers/UserDictionaryProvider/: 
+2523
+
+_________________________________
+
+
+Lines changed in packages/screensavers/Basic/: 
+3053
+
+_________________________________
+
+
+Lines changed in packages/screensavers/PhotoTable/: 
+18
+
+_________________________________
+
+
+Lines changed in packages/screensavers/WebView/: 
+2807
+
+_________________________________
+
+
+Lines changed in packages/services/Mms/: 
+1177
+
+_________________________________
+
+
+Lines changed in packages/services/Telecomm/: 
+1750
+
+_________________________________
+
+
+Lines changed in packages/wallpapers/Basic/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/wallpapers/Galaxy4/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/services/Telephony/: 
+4366
+
+_________________________________
+
+
+Lines changed in packages/wallpapers/HoloSpiral/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/wallpapers/LivePicker/: 
+2736
+
+_________________________________
+
+
+Lines changed in packages/wallpapers/NoiseField/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/wallpapers/MagicSmoke/: 
+0
+
+_________________________________
+
+
+Lines changed in packages/wallpapers/PhaseBeam/: 
+0
+
+_________________________________
+
+
+Lines changed in system/bt/: 
+42574
+
+_________________________________
+
+
+Lines changed in system/core/: 
+30316
+
+_________________________________
+
+
+Lines changed in system/gatekeeper/: 
+1053
+
+_________________________________
+
+
+Lines changed in system/extras/: 
+5153
+
+_________________________________
+
+
+Lines changed in system/keymaster/: 
+401
+
+_________________________________
+
+
+Lines changed in system/media/: 
+164
+
+_________________________________
+
+
+Lines changed in system/netd/: 
+5595
+
+_________________________________
+
+
+Lines changed in system/security/: 
+274
+
+_________________________________
+
+
+Lines changed in system/vold/: 
+230
+
+_________________________________
+
+
