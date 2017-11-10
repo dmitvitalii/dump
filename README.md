@@ -13,7 +13,7 @@ camo -d sub/project sub/another/project -g "sergeybrin@google.com"
 ```
 
 ### lns ###
-Create a symlink of some file (abandones dirs) to the `/home/username/bin` directory and make it executable.
+Create a relative symlink of some file (abandones dirs) to the `/home/username/bin` directory and make it executable.
 
 Usage:
 ```
