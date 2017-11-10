@@ -51,3 +51,12 @@ svim Systemserver
 ```
 
 Assuming we have a SystemServer.java file. The command above will find and open it.
+
+### chports ###
+
+The script for changing ports of a git remote urls for all projects.
+
+Usage:
+```
+chport <port_old> <port_new> <dir one> <dir two> ...
+```
