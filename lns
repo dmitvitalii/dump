@@ -16,5 +16,5 @@ elif [ -d "${1}" ]; then
 else
     chkdir
     chmod +x ${1}
-    ln -snf $(readlink -f ${1}) ${HOME}/bin/${1}
+    ln -snf $(readlink -f ${1}) "${HOME}/bin/${1}"
 fi
