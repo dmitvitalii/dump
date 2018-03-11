@@ -13,6 +13,10 @@ if [ "${1}" == "-h" ] || [ "${1}" == "--help" ] || [ ! -e "${1}" ] ; then
     echo "Usage: ${0##*/} path/to/executable"
 elif [ -d "${1}" ]; then
     echo "Do not place directories to ${HOME}/bin/!"
+elif [ ! -e "${2}" ]; then
+    chkdir
+    chmod +x ${1}
+    ln -snf $(readlink -f ${1}) ${HOME}/bin/${2}
 else
     chkdir
     chmod +x ${1}
