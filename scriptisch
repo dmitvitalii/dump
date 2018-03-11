@@ -43,7 +43,7 @@ main() {
             fi
         fi
     done
-    say "Aufwiedersehen, ${MEIN_NAME}!"
+    say "Aufwiedersehen, ${MEIN_NAME}! Tschüss!"
     printf "$SCRIPT_NAME: Aufwiedersehen!\n\n";
     printf "[${MEIN_NAME}= ";
 }
